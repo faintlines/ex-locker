@@ -1,5 +1,7 @@
 # Welcome!
 
+PLEASE DO NOT CLONE THIS REPO OR CREATE ANY PULL REQUESTS.
+
 ## Instructions
 
 1. Clone this repo and run the app:
